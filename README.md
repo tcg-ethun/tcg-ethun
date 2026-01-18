@@ -1,12 +1,10 @@
-![A Web Developer](https://i.ibb.co/68W7wQf/WEB-DEVELOPER-2.gif)
 
-<h2 align="center">Hi 👋, This is Ethun</h2> 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-As a Web Developer, I specialize in building robust web applications from frontend to backend. With expertise in technologies such as HTML, CSS, and JS , I craft scalable and responsive solutions that meet the demands of modern digital environments. 
+As a Programmer, I specialize in building applications from frontend to backend. With expertise in technologies such as C++ , C , Python , HTML, CSS, and JS , I craft scalable and responsive solutions that meet the demands of modern digital environments. 
 <br>
 
 - 💡I would like to explore new technologies and develop software solutions and quick hacks.
-- 🌱I’m currently learning **C++**
+- 🌱I’m currently learning **C & C++**
 - 👯I’m looking to collaborate on github 
 - ✉️ &nbsp;You can shoot me an email at ethuntcg@gmail.com ! I'll try to respond as soon as I can.
 
